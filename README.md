@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammed Dabana
 I'm a Product Manager, a UI Designer and a Python Developer
 -----------------------------------------------------------
 
-I am a Product Manager with extensive experience in procurement and design. I am eager to establish myself as an expert in the field. I am passionate about leading cross-functional teams, conducting thorough market research, and driving the launch of innovative products. Additionally, I have enhanced my skill set in Python, which further equips me to contribute effectively to my projects.
+As a Product Manager, I am dedicated to driving innovation and delivering exceptional products. I have enhanced my expertise in Python, which allows me to contribute more effectively to my projects. Additionally, I bring a strong background in UI/UX design, enabling me to create user-centered solutions that meet market needs. I am passionate about leading cross-functional teams and conducting thorough market research to ensure successful product launches.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [dabana.mohammed@gmail.com](mailto:dabana.mohammed@gmail.com)
